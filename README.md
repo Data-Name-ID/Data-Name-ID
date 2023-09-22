@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я <a href="https://github.com/Data-Name-ID">Data Name ID</a> - ваш дружелюбный Github сосед <img height="32" src ="https://github.com/Data-Name-ID/Data-Name-ID/assets/68386017/c7a9f5af-063a-4ae4-8134-f272c7cf8dc7"></h1>
+<h1 align="center">Привет, я <a href="https://github.com/Data-Name-ID">Data Name ID</a> - ваш дружелюбный Github сосед</h1>
 
 <div align="center"><img src="https://github.com/Data-Name-ID/Data-Name-ID/assets/68386017/f36828f6-38cc-445c-8754-de6fede74e4e"></div>
 
